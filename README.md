@@ -24,19 +24,21 @@ Antes de começar, certifique-se de que você tem os seguintes requisitos instal
 
 Certifique-se de que a estrutura de diretórios do projeto seja semelhante à seguinte:
 
-project-directory/
-│
-├── video-input/
-│ └── example.mp4  # Vídeos a serem processados
-│
-├── video-output/
-│ # Vídeos processados serão salvos aqui
-│
-├── quotes.csv  # Arquivo CSV com citações
-│
-├── DejaVuSans-Bold.ttf  # Fonte para uso no script
-│
-└── add_text_to_videos_opencv.py  # O script Python 
+    project-directory/
+    │
+    ├── video-input/
+    │ └── example.mp4  # Vídeos a serem processados
+    │
+    ├── video-output/
+    │ # Vídeos processados serão salvos aqui
+    │
+    ├── quotes.csv  # Arquivo CSV com citações
+    │
+    ├── DejaVuSans-Bold.ttf  # Fonte para uso no script
+    │
+    └── add_text_to_videos_opencv.py  # O script Python
+
+ 
 
 ### Arquivo CSV
 
